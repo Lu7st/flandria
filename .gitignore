@@ -6,3 +6,4 @@ static_florensia_data.db
 unstatic_florensia_data.db
 users.db
 package-lock.json
+*.db
